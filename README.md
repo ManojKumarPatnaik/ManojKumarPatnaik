@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+
 <h1 align="center">Hi 👋, I'm Manoj Kumar Patnaik</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://wallpapercave.com/wp/wp8343739.jpg">
@@ -7,6 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=manojkumarpatnaik" alt="manojkumarpatnaik" /></a> </p>
 
+- Pronouns: <img src="https://raw.githubusercontent.com/ashwinexe/ColoredBadges/master/svg/pronouns/hehim.svg">
 - 🔭 I’m currently working on **CTC**
 
 - 🌱 I’m currently learning **MERN,DATA SCIENCE**
@@ -56,3 +57,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=manojkumarpatnaik&show_icons=true&locale=en" alt="manojkumarpatnaik" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=manojkumarpatnaik&" alt="manojkumarpatnaik" /></p>
+
+
+---
+
+<h2 align="center">My GitHub Stats <img src="https://github.githubassets.com/images/spinners/octocat-spinner-64.gif"/></h2>
