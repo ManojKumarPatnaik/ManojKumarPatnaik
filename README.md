@@ -1,4 +1,4 @@
-<img src="https://github.com/ManojKumarPatnaik/hader/blob/main/github-header-image.png">
+![Header]("https://github.com/ManojKumarPatnaik/hader/blob/main/github-header-image.png")
 <img align="right" alt="Coding" width="1080" src="https://www.lamborghini.com/sites/it-en/files/DAM/lamborghini/news/2023/02_06_one_off_invencible/autentica/autentica_cover.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manojkumarpatnaik&label=Profile%20views&color=0e75b6&style=flat" alt="manojkumarpatnaik" /> </p>
