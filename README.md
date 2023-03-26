@@ -2,7 +2,7 @@
 <h3 align="center">A passionate full stack developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://www.cloudways.com/blog/wp-content/uploads/Top-IDEs-to-work-with-in-2017-Banner-1.jpg">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=manojkumarpatnaik&label=Profile%20views&color=0e75b6&style=flat" alt="manojkumarpatnaik" /> </p>
+<p align="left"> <img src="[https://komarev.com/ghpvc/?username=manojkumarpatnaik&label=Profile%20views&color=0e75b6&style=flat](https://wallpapercave.com/wp/wp8343739.jpg)" alt="manojkumarpatnaik" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=manojkumarpatnaik" alt="manojkumarpatnaik" /></a> </p>
 
