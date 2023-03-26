@@ -1,13 +1,14 @@
 
 <h1 align="center">Hi 👋, I'm Manoj Kumar Patnaik</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
-<img align="right" alt="Coding" width="1080" src="https://www.lamborghini.com/sites/it-en/files/DAM/lamborghini/news/2023/02_06_one_off_invencible/autentica/autentica_cover.jpg">
+<img align="right" alt="Coding" width="2160" src="https://www.lamborghini.com/sites/it-en/files/DAM/lamborghini/news/2023/02_06_one_off_invencible/autentica/autentica_cover.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manojkumarpatnaik&label=Profile%20views&color=0e75b6&style=flat" alt="manojkumarpatnaik" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=manojkumarpatnaik" alt="manojkumarpatnaik" /></a> </p>
 
 - Pronouns: <img src="https://raw.githubusercontent.com/ashwinexe/ColoredBadges/master/svg/pronouns/hehim.svg">
+- Highly skilled software engineer with exceptional problem-solving abilities
 - 🔭 I’m currently working on **CTC**
 
 - 🌱 I’m currently learning **MERN,DATA SCIENCE**
