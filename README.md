@@ -14,6 +14,8 @@
 
 - 👯 I’m looking to collaborate on [Google](www.google.co.in)
 
+- I love exploring and learning new skills as well as implement those in my projects.
+
 - 💬 Ask me about **BACKEND DEVELOPMENT**
 
 - 📫 How to reach me **u.manoj3p0@gmail.com**
@@ -68,3 +70,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=manojkumarpatnaik&" alt="manojkumarpatnaik" /></p>
 
+
+<h3 align="center">Thank you so much for coming here :pray:</h3>
