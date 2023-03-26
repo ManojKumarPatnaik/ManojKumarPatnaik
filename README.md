@@ -1,6 +1,7 @@
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Manoj Kumar Patnaik</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
-<img align="center" alt="Coding" width="1080" src="https://wallpapercave.com/wp/wp8343739.jpg">
+<img align="right" alt="Coding" width="400" src="https://wallpapercave.com/wp/wp8343739.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manojkumarpatnaik&label=Profile%20views&color=0e75b6&style=flat" alt="manojkumarpatnaik" /> </p>
 
